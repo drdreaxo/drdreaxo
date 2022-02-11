@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drdreaxo
-- 👀 I’m interested in being the best doer
+- 👀 I’m interested in being the best coder
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me DM
