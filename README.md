@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @drdreaxo
-- 👀 I’m interested in being the best coder
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me DM
+- 👋 Hi, I’m @drdreaxo 
+- 👀 I’m interested in AI & Data Science
+- 🌱 I’m currently learning data structures in Java, C, C++, and strengthing my Python
 
 <!---
 drdreaxo/drdreaxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
